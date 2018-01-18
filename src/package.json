@@ -1,0 +1,28 @@
+{
+  "name": "angular-core-ui",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josephnwachukwu/angular-core-ui"
+  },
+  "author": {
+    "name": "josephnwachukwu",
+    "email": "josephnwachukwu@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josephnwachukwu/angular-core-ui/issues"
+  },
+  "main": "angular-core-ui.umd.js",
+  "module": "angular-core-ui.js",
+  "jsnext:main": "angular-core-ui.js",
+  "typings": "angular-core-ui.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
